@@ -28,7 +28,7 @@ I'm a passionate full-stack developer with expertise in building scalable web ap
 
 ### GitHub Stats
 
-[![Ketan Ven Pillai](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+[![Ketan Ven Pillai](https://github-readme-stats.vercel.app/api?username=ketanven&show_icons=true&theme=radical)](https://github.com/ketanven)
 
 ### Let's Connect
 
