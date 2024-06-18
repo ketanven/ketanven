@@ -13,7 +13,7 @@ I'm a passionate full-stack developer with expertise in building scalable web ap
 
 💬 Ask me about web development, best practices in software engineering.
 
-📫 How to reach me: [Your Email Address](ketanpillai.com)
+📫 How to reach me: ketanpillai@gmail.com
 
 
 ### Recent Projects
